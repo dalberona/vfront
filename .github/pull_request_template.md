@@ -1,8 +1,5 @@
 First of all, thank you for your contribution! 😄
 
-Please make sure you have read [contribution guidelines](https://github.com/caprover/caprover/blob/master/CONTRIBUTING.md#before-contributing). 
-
-
 
 ### Most important items
 
